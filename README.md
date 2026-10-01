@@ -1,4 +1,4 @@
-# AyurDoc — SIH 2026 Clinical Platform
+# AyurDoc 
 
 AyurDoc is a full-stack, multilingual patient–Vaidya coordination application. It supports patient and doctor portals, an administration control centre, Ayurveda-focused clinical intake, voice-to-Vaidya messages, appointments, browser video rooms, ABHA profiles, document review, FHIR previews, emergency/bed workflows, blood-bank workflows, consent, audit records, and physician-verified PDF reports delivered by email.
 
